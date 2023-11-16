@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steveleafer
 - 👀 I’m interested in Quantum Computing, Machine Learning, Blockchain
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Linux Basics and Python
 - 💞️ I’m looking to collaborate on Quantum Machine Learning
 - 📫 How to reach me ...
 
